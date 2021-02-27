@@ -1,5 +1,5 @@
 ---
-title:  "OSCP thoughts Jim"
+title:  "OSCP thoughts"
 layout: post
 ---
 
