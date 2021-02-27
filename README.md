@@ -11,8 +11,8 @@ layout: page
 
 
 
-## Screenshots
 
-![screenshot](https://github.com/JimSolomon/jimsolomon.github.io/blob/master/Screenshot_2.png)
+
+![screenshot](https://github.com/JimSolomon/jimsolomon.github.io/blob/master/676639.png)
 
 
