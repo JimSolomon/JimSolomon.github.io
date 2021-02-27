@@ -5,9 +5,12 @@ layout: page
 ---
 
 
-
-- [Twitter](https://twitter.com/JimKwikX)
+Jim Solomon
+-Christian, Studying HSc(Hon)Cyber Security and Digital Forensics, Security Consultant for 12security | OSCP
+-
+-  [Twitter](https://twitter.com/JimKwikX)
 - [HackTheBox](https://www.hackthebox.eu/home/users/profile/222358)
+- [12security](http://12security.com)
 
 
 
