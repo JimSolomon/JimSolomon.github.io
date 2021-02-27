@@ -2,7 +2,7 @@
 title:  "OSCP thoughts Jim"
 layout: post
 ---
-![alt text]https://github.com/JimSolomon/jimsolomon.github.io/blob/master/Screenshot_2.png "Logo Title Text 1")
+
 [logo]: https://github.com/JimSolomon/jimsolomon.github.io/blob/master/Screenshot_2.png "Logo "OSCP"
 
 OSCP (Offensive Security Certified Professional) is one of the most popular industry standard certificates for pentesters, cyber security students to prove their  practical skills set to their future employees. Although, there are many certifications besides OSCP like CEH, SANA, elernsecurity's certifications etc. However, SANA's course may too expensive for normal people (around $7000 a week training), and elearnsecurity has better course materials than OSCP, but it comes with a poor industry recognition when look for a job because its not very well known as OSCP. Also, OSCP
