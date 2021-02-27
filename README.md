@@ -13,6 +13,6 @@ layout: page
 
 
 
-![screenshot](https://github.com/JimSolomon/jimsolomon.github.io/blob/master/676639.png)
+![screenshot](https://raw.githubusercontent.com/JimSolomon/jimsolomon.github.io/master/Screenshot_2.png)
 
 
