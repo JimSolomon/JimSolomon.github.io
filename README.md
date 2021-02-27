@@ -13,6 +13,6 @@ layout: page
 
 ## Screenshots
 
-![screenshot](https://github.com/JimSolomon/jimsolomon.github.io/blob/master/assets/fontawesome/Screenshot_2.png)
+![screenshot](https://github.com/JimSolomon/jimsolomon.github.io/blob/master/Screenshot_2.png)
 
 
