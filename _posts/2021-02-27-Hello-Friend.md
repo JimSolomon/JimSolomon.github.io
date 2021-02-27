@@ -9,4 +9,4 @@ I’m going to start my blog here and will be sharing Writeups, OSCP experiences
 
 Check out [My Twitter] for more info.
 
-[Twitter](https://twitter.com/JimKwikX)
+[My Twitter](https://twitter.com/JimKwikX)
