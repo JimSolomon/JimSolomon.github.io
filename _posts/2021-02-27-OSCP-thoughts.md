@@ -9,7 +9,7 @@ OSCP (Offensive Security Certified Professional) is one of the most popular indu
 
 
 ## Heading Two (h2)
-![Swiss Alps](https://github.com/JimSolomon/jimsolomon.github.io/blob/master/676639.png) 
+![Swiss Alps](https://raw.githubusercontent.com/JimSolomon/jimsolomon.github.io/master/676639.png) 
 
 ### Heading Three (h3)
 
