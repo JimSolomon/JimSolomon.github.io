@@ -6,7 +6,8 @@ layout: page
 
 
 Jim Solomon
--Christian, Studying HSc(Hon)Cyber Security and Digital Forensics, Security Consultant for 12security | OSCP
+
+Christian, Studying BSc(Hon) Cyber Security and Digital Forensics, Security Consultant for 12security | OSCP
 -
 -  [Twitter](https://twitter.com/JimKwikX)
 - [HackTheBox](https://www.hackthebox.eu/home/users/profile/222358)
