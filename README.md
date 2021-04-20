@@ -16,5 +16,5 @@ Christian, Studying BSc(Hon) Cyber Security and Digital Forensics, Security Cons
 
 
 
-![screenshot] (https://github.com/JimSolomon/jimkwikx.github.io/blob/master/676639.png)
+![screenshot] (https://raw.githubusercontent.com/JimSolomon/jimkwikx.github.io/master/676639.png)
 
