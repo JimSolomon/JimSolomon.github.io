@@ -5,11 +5,10 @@ layout: page
 ---
 
 
-Jim Solomon
+
 
 Christian, Studying BSc(Hon) Cyber Security and Digital Forensics, Security Consultant for 12security | OSCP
--
--  [Twitter](https://twitter.com/JimKwikX)
+
 - [HackTheBox](https://www.hackthebox.eu/home/users/profile/222358)
 - [12security](http://12security.com)
 
@@ -17,6 +16,5 @@ Christian, Studying BSc(Hon) Cyber Security and Digital Forensics, Security Cons
 
 
 
-![screenshot](https://raw.githubusercontent.com/JimSolomon/jimsolomon.github.io/master/Screenshot_2.png)
-
+![screenshot] (https://github.com/JimSolomon/jimkwikx.github.io/blob/master/676639.png)
 
